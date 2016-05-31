@@ -4,5 +4,4 @@ composer.lock
 cscope.*
 vendor
 runtime
-thinkphp
 test
